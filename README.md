@@ -24,7 +24,9 @@
 
 ### 🧑‍💻 About Me :
 I am a Frontend web security student (**javascript fullstack in reality**).
-- 💪 In my latest internship i took the role of a fullstack intern at a startup where i setup most of our MongoDB, Express, NodeJs backend. I also work in our Next.Js Frontend.
+- 💪 In my previous internship i took the role of a fullstack intern at a startup where i setup most of our MongoDB, Express, NodeJs backend. I also work in our Next.Js Frontend.
+
+- In my current internship at FrontEdge IT. I am building a fullstack application that consists of React, TypeScript, Python, Node.Js and MongoDB (mongoose). I am more focused on the python part where we enter a mail box, reads emails and extracts relevant information, as well as download attatchments (such as excel files) extract data and push to node -> DB. 
 
 - 🖥️⌨️	I also have a keen interest in security and enjoy doing CTFs and learn about ethical hacking. If you want to learn more about that i recommend clicking my blog link where i do walkthroughs.
 
