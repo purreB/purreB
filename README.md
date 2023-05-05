@@ -23,16 +23,14 @@
   ---
 
 ### 🧑‍💻 About Me :
-I am a junior Fullstack developer with a keen interest in security, ethical hacking and CTFs. 
-- 💪 During my first internship i took the role of a fullstack intern at a startup where i setup most of our MongoDB, Express, NodeJs backend. I also work in our Next.Js Frontend.
-
-- In my most recent internship at FrontEdge IT. I was building a fullstack application that consists of React, TypeScript, Python, Node.Js and MongoDB (mongoose). I got to focus more on the python part where we enter a mail box, reads emails and extracts relevant information, as well as download attatchments (such as excel files) extract data and push to node -> DB. 
+Junior Fullstack developer with a keen interest in security, ethical hacking and CTFs. 
+- I currently work as an consultant at: https://omegapoint.se/ where i am working in C++.
 
 - 🖥️⌨️	I also have a keen interest in security and enjoy doing CTFs and learn about ethical hacking. If you want to learn more about that i recommend clicking my blog link where i do walkthroughs.
 
 - ✔️ I also enjoy Gaming, Psychology, Communication, Philosophy and Leadership. I can talk to great lengths about these topics 😄.
 
-- I am currently learning Rust in my spare time.
+- I enjoy many languages and technologies, i have previously worked in Python, C# /.Net, JS/TS, and C++. (And some Rust for private projects)
 
 - 📫 You can find my contact info on [![Linkedin Badge](https://img.shields.io/badge/-Jakob_Bergström-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-bergstr%C3%B6m/) **or on my** [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue)](https://jakobbergstrom.vercel.app/)
 ---
