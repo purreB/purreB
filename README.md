@@ -3,10 +3,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/jakob-bergstr%C3%B6m/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://jakobbergstrom.vercel.app/">
-    <img src="https://img.shields.io/badge/-My%20Portfolio-blue?style=for-the-badge&logo=appveyor" alt="Portfolio Badge"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=purreB&style=flat-square&color=blue" alt=""/>
 </div>
   <a href="https://medium.com/@purreb">
@@ -23,8 +19,8 @@
   ---
 
 ### 🧑‍💻 About Me :
-Junior Fullstack developer with a keen interest in security, ethical hacking and CTFs. 
-- I currently work as an consultant at: https://omegapoint.se/ where i am working in C++.
+Fullstack developer with a keen interest in security, ethical hacking and CTFs. 
+- I currently work as an consultant at: https://omegapoint.se/ where i am working in C++ aswell as Java.
 
 - 🖥️⌨️	I also have a keen interest in security and enjoy doing CTFs and learn about ethical hacking. If you want to learn more about that i recommend clicking my blog link where i do walkthroughs.
 
@@ -32,7 +28,7 @@ Junior Fullstack developer with a keen interest in security, ethical hacking and
 
 - I enjoy many languages and technologies, i have previously worked in Python, C# /.Net, JS/TS, and C++. (And some Rust for private projects)
 
-- 📫 You can find my contact info on [![Linkedin Badge](https://img.shields.io/badge/-Jakob_Bergström-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-bergstr%C3%B6m/) **or on my** [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue)](https://jakobbergstrom.vercel.app/)
+- 📫 You can find my contact info on [![Linkedin Badge](https://img.shields.io/badge/-Jakob_Bergström-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-bergstr%C3%B6m/)
 ---
 
 ### 🛠️ Languages and Tools :
