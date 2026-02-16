@@ -20,13 +20,13 @@
 
 ### 🧑‍💻 About Me :
 Fullstack developer with a keen interest in security, ethical hacking and CTFs. 
-- I currently work as an consultant at: https://omegapoint.se/ where i am working in C++ aswell as Java.
+- I currently work as an consultant at: https://omegapoint.se/ where i am working in C++, Java, Kotlin, Android Automotive.
 
 - 🖥️⌨️	I also have a keen interest in security and enjoy doing CTFs and learn about ethical hacking. If you want to learn more about that i recommend clicking my blog link where i do walkthroughs.
 
 - ✔️ I also enjoy Gaming, Psychology, Communication, Philosophy and Leadership. I can talk to great lengths about these topics 😄.
 
-- I enjoy many languages and technologies, i have previously worked in Python, C# /.Net, JS/TS, and C++. (And some Rust for private projects)
+- I enjoy many languages and technologies, i have previously worked in Python, C# /.Net, JS/TS, C++ and Java
 
 - 📫 You can find my contact info on [![Linkedin Badge](https://img.shields.io/badge/-Jakob_Bergström-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakob-bergstr%C3%B6m/)
 ---
