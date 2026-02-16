@@ -47,10 +47,3 @@ Fullstack developer with a keen interest in security, ethical hacking and CTFs.
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="ExpressJs" alt="ExpressJs" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/> &nbsp;
-
----
-
-### 🔥 My Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purreB&layout=compact&theme=vision-friendly-dark)](https://github.com/purreB/github-readme-stats)
-</div>
-</div>
